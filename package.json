@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project-brain-waves/",
+    "build": "vite build --base=/html-css_90_StepanPleshynets/",
     "preview": "vite preview"
   },
   "devDependencies": {
