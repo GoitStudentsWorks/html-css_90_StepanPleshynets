@@ -8,6 +8,7 @@
     "build": "vite build --base=/html-css_90_StepanPleshynets/",
     "preview": "vite preview"
   },
+  
   "devDependencies": {
     "vite": "^4.0.5",
     "glob": "^8.1.0"
